@@ -1,0 +1,49 @@
+# Research Methodology
+
+ Objective
+
+The goal of this assignment was to identify Indian specialty manufacturing companies that fit DeepThought’s “Federer Company” profile.
+
+*** Research Process
+
+I selected Bengaluru as the target city and focused mainly on Medical Devices and Industrial Sensors & Instrumentation companies.
+
+I started by collecting company names from:
+
+* LinkedIn
+* Company websites
+* IndiaMART
+* StartupIndia
+* News articles
+* Trade directories
+
+After collecting an initial list, I manually checked each company for:
+
+* Manufacturing capability
+* Technical leadership
+* Growth indicators
+* Product differentiation
+* Indian operational presence
+
+## AI Usage
+
+AI tools were used for:
+
+* Summarizing company information
+* Identifying possible growth signals
+* Organizing research faster
+
+However, all final decisions were manually verified.
+
+## AI Hallucination Control
+
+To avoid incorrect information:
+
+* Company websites were manually verified
+* Multiple sources were cross-checked
+* Unsupported claims were rejected
+* Service companies and traders were removed
+
+Key Learning
+
+This assignment helped me understand how structured research, verification, and evidence-based qualification are important in business analytics and B2B targeting.
