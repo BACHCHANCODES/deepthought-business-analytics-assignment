@@ -1,0 +1,80 @@
+1000 Company Sourcing Proposal
+
+Objective
+
+Build a verified list of 1000 ICP-qualified specialty manufacturing companies within one month.
+
+---
+
+ Week 1 — Data Collection
+
+Sources:
+
+* LinkedIn
+* IndiaMART
+* StartupIndia
+* TradeIndia
+* Industry directories
+* Government manufacturing databases
+
+Expected output:
+5000 raw company names.
+
+---
+
+ Week 2 — AI-Assisted Filtering
+
+AI tools would be used to:
+
+* Identify manufacturers
+* Detect technical founders
+* Identify growth signals
+* Categorize companies by industry
+
+Expected output:
+2000 partially qualified companies.
+
+---
+
+Week 3 — Manual Verification & Quality Control
+
+Activities:
+
+* Website verification
+* Removing traders/service firms
+* Checking growth activity
+* Validating manufacturing capability
+
+Expected output:
+1200 verified companies.
+
+---
+
+Week 4 — Final Qualification & Outreach Preparation
+
+Activities:
+
+* Federer scoring
+* Prioritization
+* Personalization hook creation
+* CRM-ready formatting
+
+Expected output:
+1000 high-quality target companies.
+
+---
+
+ Quality Control Measures
+
+To reduce false positives:
+
+* Cross-source validation
+* Manual verification
+* Negative prompting while using AI
+* Rechecking unsupported claims
+
+---
+
+ Conclusion
+
+The combination of AI-assisted research and manual verification can significantly improve sourcing speed while maintaining quality and accuracy.
